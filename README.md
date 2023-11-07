@@ -1,16 +1,9 @@
-# expense_tracker_app
+# Expense Tracker App
 
-A new Flutter project.
+Expense Tracker App
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Expense_Tracker_App/assets/146417248/a6700097-9b30-42cd-9541-40907959732a)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Expense_Tracker_App/assets/146417248/0fbc317b-53c2-4ff2-a5e0-e32d7ebc60ff)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Expense_Tracker_App/assets/146417248/c6d8a169-4dcf-400c-8450-bb95ae8fed52)
